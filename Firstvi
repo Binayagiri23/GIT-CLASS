@@ -1,3 +1,4 @@
 
 love
+echo "Love is $life"
 
